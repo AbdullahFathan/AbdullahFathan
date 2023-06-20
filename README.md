@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Engineering at Brawijaya University.
-- 🌱 &nbsp; Learning more about mobile and web development.
+- 🌱 &nbsp; Learning more about mobile and web development using flutter, bloc/cubit, react, and etc.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,9 +31,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdullah-fathan-1b2872236/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abdullah%20Fathan-blue?style=flat-square&logo=linkedin"></a>
-<a href="abdullahfathan013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abdullah Fathan-blue?style=flat-square&logo=gmail"></a>
-</p>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abdullah-fathan-1b2872236/)
+
 
 ⭐️ From [AbdullahFathan](https://github.com/AbdullahFathan)
